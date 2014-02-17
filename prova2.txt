@@ -1,1 +1,2 @@
 tmp.f=function(x){x^2}
+tmp.f3=function(x){x^3}
